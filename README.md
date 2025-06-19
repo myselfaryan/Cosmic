@@ -1,4 +1,4 @@
-# Gems & Rudraksha Guru
+# Cosmic
 
 A modern React-based spiritual e-commerce platform specializing in authentic gemstones, sacred rudraksha beads, and Vedic astrology consultations.
 
