@@ -99,7 +99,7 @@ npm run build
 
 ## 🌟 About Gems & Rudraksha Guru
 
-Gems & Rudraksha Guru is your trusted partner in spiritual growth, offering:
+Cosmic is your trusted partner in spiritual growth, offering:
 
 - **Authentic Gemstones** - Certified precious and semi-precious stones
 - **Sacred Rudraksha** - Genuine rudraksha beads from Nepal
